@@ -1,0 +1,18 @@
+.photoStack {
+    height: 100%;
+    width: 100%;
+}
+.card {
+    position: absolute;
+    display: inline;
+}
+
+img {
+    width: 200px;
+    height: 400px;
+
+    left: 0;
+    right: 0;
+
+}
+  
